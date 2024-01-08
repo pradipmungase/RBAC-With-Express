@@ -1,0 +1,49 @@
+basic api project
+
+create users
+
+first name
+last name
+mobile no
+email
+gender
+photo
+
+
+login user with jtw token
+
+show user profile
+update profile with roles
+
+
+database
+
+users collection
+
+first name
+last name
+mobile no
+email
+gender
+photo
+created_at
+update_at
+
+
+roles collection
+
+role name
+created_at
+update_at
+
+roles permition link collection
+role id
+permition name
+created_at
+update_at
+
+user roles link collection
+user id
+role id
+created_at
+update_at
